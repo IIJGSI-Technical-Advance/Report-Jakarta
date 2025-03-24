@@ -1,8 +1,12 @@
 # Report Business Trip Jakarta Tan'gi
 
 ## 1. Selasa 18/03/2025
-
+- Arriving at Cove
+- progress with mas Enjang and Beatrice
+- Weekly meeting with IIJHQ and TA team
+- Discussing VMWARE VCP-DC
 ## 2. Rabu 18/03/2025
+- Install new harddisk on Dell server and configure ESXI Host
 - Create new user (disable promt password dan disable user new information)
 ```
 #!/bin/bashh
